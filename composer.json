@@ -24,7 +24,7 @@
     ],
     "require": {
         "php": ">=7.4",
-        "modollarpo/jobs-common": "dev-master"
+        "modollarpo/jobs-common": "dev-master",
         "guzzlehttp/guzzle": "^7.2"
     },
     "require-dev": {
