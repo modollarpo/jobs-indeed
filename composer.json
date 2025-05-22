@@ -24,7 +24,7 @@
     ],
     "require": {
         "php": ">=7.4",
-        "modollarpo/jobs-common": "^3.0",
+        "modollarpo/jobs-common": "dev-master"
         "guzzlehttp/guzzle": "^7.2"
     },
     "require-dev": {
@@ -40,7 +40,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "JobApis\\Jobs\\Client\\Test\\": "tests/src/"
+            "JobApis\\Jobs\\Client\\": "src/"
         }
     }
 }
