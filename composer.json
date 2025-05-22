@@ -24,7 +24,7 @@
     ],
     "require": {
         "php": ">=7.4",
-        "jobapis/jobs-common": "^3.0",
+        "modollarpo/jobs-common": "^3.0",
         "guzzlehttp/guzzle": "^7.2"
     },
     "require-dev": {
